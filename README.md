@@ -34,5 +34,7 @@ A simple and modern ToDo Android app built with **Kotlin**, using **Jetpack Comp
 - **Read**: View all saved tasks using LiveData or Flow.
 - **Update**: Edit task titles anytime.
 - **Delete**: Remove individual or all tasks.
+  <br>
+![image alt](https://github.com/JAYYADAV077/Notes_With_RoomDB/blob/main/Screenshot%202025-07-02%20205246.png?raw=true)  ![image alt](https://github.com/JAYYADAV077/Notes_With_RoomDB/blob/main/Screenshot%202025-07-02%20205532.png?raw=true) 
 
 

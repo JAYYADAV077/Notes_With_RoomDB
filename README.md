@@ -1,4 +1,4 @@
-# 📝 ToDo App
+## 📝 ToDo App
 
 A simple and modern ToDo Android app built with **Kotlin**, using **Jetpack Compose**, **Room Database**, **MVVM Architecture**, and **Kotlin Coroutines**. This app demonstrates basic **CRUD (Create, Read, Update, Delete)** operations and clean architectural practices.
 
